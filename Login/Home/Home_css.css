@@ -1,0 +1,44 @@
+div {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+h1{
+    font-family: 'Alegreya', serif;
+    font-size: 8vh;
+    text-align: center;
+    color:#FDFFFC;
+}
+body{
+    background-color: #FF9F1C;
+}
+table{
+    border: 20px #F71735 solid;
+    width: 400px;
+    height: 250px;
+    background-color: #011627;
+}
+
+label{
+    font-family:"Source Sans Pro", sans-serif;
+    font-size: 3vh;
+    text-align: center;
+    color:#FDFFFC;
+}
+td{
+    text-align: center;
+}
+button{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border-color: #F71735;
+    border-radius: 35%;
+    border-width: thick;
+    background-color: #FF9F1C ;
+    color:#011627;
+}
+input{
+    text-align: center;
+}
